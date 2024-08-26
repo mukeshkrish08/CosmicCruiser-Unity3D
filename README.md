@@ -36,4 +36,14 @@ Discover the assets and audio design that bring "Cosmic Cruiser" to life, creati
   - **The Lunar Landscape** from Unity Asset Store provides a realistic backdrop, grounding the player in a desolate yet beautiful extraterrestrial environment.
   - **The Starfield Skybox** from Unity Asset Store envelops the scene in a starry void, enhancing the feeling of deep space.
   - **The Toy Rocket model** from CGTrader adds a playful yet detailed appearance to the player's vehicle, making it stand out against the cosmic backdrop.
-- **Audio Design:** The game features a dynamic soundtrack by Simon Jensen that reacts to the player's progress. As you speed up, the music intensifies, adding to the thrill of the chase.
+- **Audio :** The game features a soundtrack by **Simon Jensen** titled **"Space".**
+
+## Getting Started
+
+To get a local copy up and running, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/mukeshkrish08/CosmicCruiser-Unity3D
+    ```
+2. Open the project in Unity.
